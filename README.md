@@ -9,7 +9,7 @@ Click the Binder button below to open up an interactive Python/Jupyterlab instan
 
 1. Go to https://www.unsigs.com/details/##### (replace ###### with the 5 digit number, including leading zeros, of your unsig)
 
-2. Type the properties you see on your unsig page, into the notebook unsig_gen.ipynb
+2. Type the properties you see on your unsig's page, into the notebook unsig_gen.ipynb - if you don't want to make a mistake, copy the portion between the square brackets ( "[" and "]" ) into the notebook's cells. 
 
 ## Medium
 
