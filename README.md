@@ -3,7 +3,7 @@ On-chain NFT project on Cardano
 
 Click the Binder button below to open up an interactive Python/Jupyterlab instance to run the code in this repository: Follow the instructions below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderwatanabe/unsigned_algorithms/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderwatanabe/unsigned_algorithms/HEAD?urlpath=lab)
 
 ## Easy
 
