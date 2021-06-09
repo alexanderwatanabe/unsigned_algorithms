@@ -1,0 +1,7 @@
+name: unsig
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.3=cpython_he5300dc_0
+  - numpy=1.19.4=py38hf0fd68c_1
+  - pillow=8.0.1=py38h70fbd49_0
