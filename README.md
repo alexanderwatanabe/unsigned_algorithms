@@ -1,6 +1,7 @@
 # unsigned_algorithms
 On-chain NFT project on Cardano
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderwatanabe/unsigned_algorithms/HEAD?filepath=unsig_gen.ipynb)
 
 ## Easy
 
