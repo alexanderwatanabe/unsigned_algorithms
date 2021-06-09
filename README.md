@@ -62,7 +62,7 @@ Click the Binder button below to open up an interactive Python/Jupyterlab instan
 
 You need to copy the part AFTER "unsigs: " from the first "{" to the corresponding "}" at the end (there are 2 right after each other, the first one closes the "{" after the properties KEY).
 
-6. Paste that into the unsig_gen.ipynb notebook in this repository, after the "unsig = " statement.
+6. Paste that into the unsig_gen.ipynb notebook in this repository, after the "unsig = " statement. After you do that, you will need to add quotes around the KEYS (index, num_props, properties, colors, distributions, multipliers and rotations) due to differences between how the metadata is recorded on Cardano and what Python expects.
 
 ### Bonus time (just for your info)
 
