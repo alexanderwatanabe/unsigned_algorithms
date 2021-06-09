@@ -10,7 +10,7 @@ On-chain NFT project on Cardano
 
 ## Medium
 
-## Getting metadata:
+### Getting metadata:
 
 1. Go to https://cardanoscan.io and paste the transaction (something like 91363703c99b14c6f980b19d435b9f78a9cee6f98c1ff9be5e5e4cc3ba44ee6b) where you received your unsigs into the search box.
 
@@ -22,40 +22,40 @@ On-chain NFT project on Cardano
 
 5. You should see something like what is shown below:
 
-unsigs: {
-            index: 17429,
-            num_props: 5,
-            properties: {
-               colors: [
-                  "Red",
-                  "Green",
-                  "Blue",
-                  "Green",
-                  "Blue"
-               ],
-               distributions: [
-                  "CDF",
-                  "CDF",
-                  "CDF",
-                  "CDF",
-                  "CDF"
-               ],
-               multipliers: [
-                  "0.5",
-                  "1",
-                  "1",
-                  "2",
-                  "4"
-               ],
-               rotations: [
-                  "0",
-                  "270",
-                  "180",
-                  "180",
-                  "90"
-               ]
-            }
-         }
+            unsigs: {
+                        index: 17429,
+                        num_props: 5,
+                        properties: {
+                           colors: [
+                              "Red",
+                              "Green",
+                              "Blue",
+                              "Green",
+                              "Blue"
+                           ],
+                           distributions: [
+                              "CDF",
+                              "CDF",
+                              "CDF",
+                              "CDF",
+                              "CDF"
+                           ],
+                           multipliers: [
+                              "0.5",
+                              "1",
+                              "1",
+                              "2",
+                              "4"
+                           ],
+                           rotations: [
+                              "0",
+                              "270",
+                              "180",
+                              "180",
+                              "90"
+                           ]
+                        }
+                     }
 
 You need to copy the part AFTER "unsigs: " from the first "{" to the corresponding "}" at the end (there are 2 right after each other, the first one closes the "{" after the properties KEY).
 
