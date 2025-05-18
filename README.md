@@ -7,7 +7,7 @@ Click the Binder button below to open up an interactive Python/Jupyterlab instan
 
 ## Easy
 
-1. Go to https://www.unsigs.com/details/##### (replace ###### with the 5 digit number, including leading zeros, of your unsig)
+1. Go to https://www.unsigs.com/nft/##### (replace ###### with the 5 digit number, including leading zeros, of your unsig)
 
 2. Type the properties you see on your unsig's page, into the notebook unsig_gen.ipynb - if you don't want to make a mistake, copy the portion between the square brackets ( "[" and "]" ) for each property, into the notebook. 
 
